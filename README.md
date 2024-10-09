@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Mohamed Bakry, and I'm currently learning Computer Science at El-Shorouk Academy, & I'm in my 3rd year!
-I'm hoping to work in either AI or Game Dev or hopfully both.
+I'm hoping to work in either AI or Game Dev or hopfully both in the future.
 <!--
 **MBOmran/MBOmran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
